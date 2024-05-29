@@ -1,0 +1,17 @@
+I:\Диплом\Программа\программа\PassManager\bin\Debug\PassManager.exe.config
+I:\Диплом\Программа\программа\PassManager\bin\Debug\PassManager.exe
+I:\Диплом\Программа\программа\PassManager\bin\Debug\PassManager.pdb
+I:\Диплом\Программа\программа\PassManager\bin\Debug\MySql.Data.dll
+I:\Диплом\Программа\программа\PassManager\bin\Debug\System.Memory.dll
+I:\Диплом\Программа\программа\PassManager\bin\Debug\System.Numerics.Vectors.dll
+I:\Диплом\Программа\программа\PassManager\bin\Debug\System.Buffers.dll
+I:\Диплом\Программа\программа\PassManager\obj\Debug\PassManager.csproj.AssemblyReference.cache
+I:\Диплом\Программа\программа\PassManager\obj\Debug\PassManager.Manager.resources
+I:\Диплом\Программа\программа\PassManager\obj\Debug\PassManager.Properties.Resources.resources
+I:\Диплом\Программа\программа\PassManager\obj\Debug\PassManager.csproj.GenerateResource.cache
+I:\Диплом\Программа\программа\PassManager\obj\Debug\PassManager.csproj.CoreCompileInputs.cache
+I:\Диплом\Программа\программа\PassManager\obj\Debug\PassManager.csproj.CopyComplete
+I:\Диплом\Программа\программа\PassManager\obj\Debug\PassManager.exe
+I:\Диплом\Программа\программа\PassManager\obj\Debug\PassManager.pdb
+I:\Диплом\Программа\программа\PassManager\obj\Debug\PassManager.Info.resources
+I:\Диплом\Программа\программа\PassManager\obj\Debug\PassManager.Settings.resources

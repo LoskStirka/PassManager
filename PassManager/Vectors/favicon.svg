@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666655 8.4666656"
+   version="1.1"
+   id="svg9330"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9332"
+     pagecolor="#747474"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="20.064155"
+     inkscape:cy="14.738757"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     width="32px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:deskcolor="#747474" />
+  <defs
+     id="defs9327">
+    <linearGradient
+       id="paint0_linear_87_8106"
+       x1="16.817499"
+       y1="22.8745"
+       x2="18.503099"
+       y2="18.589899"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1245945,0,0,1.1245945,-2030.5487,2525.9243)">
+      <stop
+         stop-color="#FF9700"
+         id="stop10"
+         style="stop-color:#000000;stop-opacity:0" />
+      <stop
+         offset="1"
+         stop-color="#D06F00"
+         id="stop14"
+         style="stop-color:#000000;stop-opacity:0.35294116" />
+    </linearGradient>
+    <linearGradient
+       id="paint0_linear_38_34"
+       x1="16"
+       y1="0"
+       x2="16"
+       y2="32"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,287.56943,51.036793)">
+      <stop
+         stop-color="#10D7E2"
+         id="stop5" />
+      <stop
+         offset="1"
+         stop-color="#09767C"
+         id="stop6" />
+    </linearGradient>
+    <filter
+       id="filter0_d_38_34"
+       x="1"
+       y="1"
+       width="29.5"
+       height="29.1654"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood3" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix3" />
+      <feOffset
+         id="feOffset3" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur3" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite3" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+         id="feColorMatrix4" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_38_34"
+         id="feBlend4" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_38_34"
+         result="shape"
+         id="feBlend5" />
+    </filter>
+    <linearGradient
+       id="paint1_linear_38_34"
+       x1="15.5"
+       y1="4.1653399"
+       x2="15.5"
+       y2="26.1653"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#9358F7"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#6629CD"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#paint1_linear_38_34"
+       id="linearGradient1"
+       gradientUnits="userSpaceOnUse"
+       x1="15.5"
+       y1="4.1653399"
+       x2="15.5"
+       y2="26.1653" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-287.56943,-51.036793)">
+    <path
+       id="circle1"
+       style="fill:url(#paint0_linear_38_34);stroke-width:0.264583"
+       d="M 291.80276 51.036793 A 4.2333331 4.2333331 0 0 0 287.56943 55.270126 A 4.2333331 4.2333331 0 0 0 291.80276 59.50346 A 4.2333331 4.2333331 0 0 0 296.0361 55.270126 A 4.2333331 4.2333331 0 0 0 291.80276 51.036793 z " />
+    <path
+       style="color:#000000;fill:#000000;-inkscape-stroke:none"
+       d="m 291.80273,51.037109 c -2.33666,6.3e-5 -4.23236,1.895758 -4.23242,4.232422 6e-5,2.336665 1.89576,4.234313 4.23242,4.234375 2.33667,-5.6e-5 4.23237,-1.897706 4.23243,-4.234375 -6e-5,-2.336668 -1.89576,-4.232365 -4.23243,-4.232422 z m 0,0.210938 c 2.22228,5.4e-5 4.02143,1.799206 4.02149,4.021484 -6e-5,2.222279 -1.79921,4.021431 -4.02149,4.021485 -2.22227,-6e-5 -4.02142,-1.79921 -4.02148,-4.021485 6e-5,-2.222275 1.79921,-4.021425 4.02148,-4.021484 z"
+       id="circle2" />
+    <g
+       filter="url(#filter0_d_38_34)"
+       id="g3"
+       transform="matrix(0.26458333,0,0,0.26458333,287.56943,51.036793)">
+      <path
+         id="path2"
+         style="fill:url(#linearGradient1)"
+         d="M 15.59961 5.0000001 C 11.954513 5.0000001 9.0000001 7.9545332 9.0000001 11.59961 L 9.0000001 12.964844 L 7.5000001 12.964844 C 6.1192915 12.964844 5.0000001 14.084045 5.0000001 15.464844 L 5.0000001 21.166016 C 5.0000001 23.927413 7.2385829 26.166016 10 26.166016 L 22 26.166016 C 24.761398 26.166016 26.5 23.927413 26.5 21.166016 L 26.5 15.464844 C 26.5 14.084045 25.380699 12.964844 24 12.964844 L 22.199219 12.964844 L 22.199219 11.59961 C 22.199219 7.9545332 19.244706 5.0000001 15.59961 5.0000001 z M 15.59961 8.3007814 C 17.422108 8.3007814 18.900391 9.7770713 18.900391 11.59961 L 18.900391 12.964844 L 12.300781 12.964844 L 12.300781 11.59961 C 12.300781 9.7770713 13.777111 8.3007814 15.59961 8.3007814 z " />
+    </g>
+  </g>
+</svg>
